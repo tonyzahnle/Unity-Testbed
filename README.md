@@ -2,7 +2,7 @@ Unity-Testbed
 =============
 
 Various tests and experiments within Unity
-Also partially a personal learning tool for using Github/SourceTree!
+Also partially a personal learning tool for using Github/SourceTree
 
 Current scripts:
 +Logger.cs - No implementation currently, but hoping to expand to a grand upgraded logging tool to use within Unity games to investigate crashes.
