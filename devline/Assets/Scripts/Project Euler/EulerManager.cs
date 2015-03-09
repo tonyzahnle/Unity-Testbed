@@ -9,7 +9,7 @@ public class EulerManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		//ProblemOne();
-		ProblemTwo();
+		//ProblemTwo();
 	}
 	
 	// Update is called once per frame
@@ -52,7 +52,12 @@ public class EulerManager : MonoBehaviour {
 		EndFrame();
 	}
 
+	void ProblemThree()
+	{
+		BeginFrame();
 
+		EndFrame();
+	}
 
 	void BeginFrame()
 	{
